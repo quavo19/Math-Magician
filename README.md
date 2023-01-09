@@ -70,9 +70,9 @@ To run the project, execute the following command:
 
 👤 **Dicko Allasane**
 
-- GitHub: [@githubhandle](https://github.com/quavo19)
-- Twitter: [@twitterhandle](https://twitter.com/DonaldAkite)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/donald-akite-299a31222/)
+- GitHub: [@Donald](https://github.com/quavo19)
+- Twitter: [@AkiteDonald](https://twitter.com/DonaldAkite)
+- LinkedIn: [@AkiteDonald](https://www.linkedin.com/in/donald-akite-299a31222/)
 
 
 ## 🔭 Future Features <a name="future-features"></a>
