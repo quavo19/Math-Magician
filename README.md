@@ -68,7 +68,7 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Dicko Allasane**
+👤 **Akite Donald**
 
 - GitHub: [@Donald](https://github.com/quavo19)
 - Twitter: [@AkiteDonald](https://twitter.com/DonaldAkite)
