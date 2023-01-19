@@ -1,9 +1,9 @@
 import './Style.css';
 import { Routes, Route, BrowserRouter } from 'react-router-dom';
-import Calculator from './Components/Calculator';
-import Navbar from './Components/Nav';
-import HomePage from './Components/Home';
-import Quotes from './Components/Quotes';
+import Calculator from './components/Calculator';
+import Navbar from './components/Nav';
+import HomePage from './components/Home';
+import Quotes from './components/Quotes';
 
 function App() {
   return (
