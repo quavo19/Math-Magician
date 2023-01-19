@@ -16,6 +16,8 @@
 .NavItems {
   justify-content: space-between;
   padding: 30px;
+  background: rgb(51, 122, 185);
+  color: #fff;
 }
 
 .NavItems h3 {
@@ -30,7 +32,13 @@
   list-style: none;
   font-size: 17px;
   padding: 15px;
-  border-right: 3px solid #000;
+  border-right: 3px solid #fff;
+}
+
+.NavItems ul li a {
+  text-decoration: none;
+  font-weight: 700;
+  color: #fff;
 }
 
 .container {
