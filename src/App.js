@@ -1,9 +1,23 @@
 import './Style.css';
-import Calculator from './Components/Calculator';
+import { Routes, Route, BrowserRouter } from 'react-router-dom';
+import Calculator from './components/Calculator';
+import Navbar from './components/Nav';
+import HomePage from './components/Home';
+import Quotes from './components/Quotes';
 
 function App() {
   return (
-    <Calculator />
+    <>
+      <BrowserRouter>
+        <Navbar />
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/calculator" element={<Calculator />} />
+          <Route path="/quotes" element={<Quotes />} />
+        </Routes>
+      </BrowserRouter>
+
+    </>
   );
 }
 
