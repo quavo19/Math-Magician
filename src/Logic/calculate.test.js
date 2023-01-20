@@ -45,7 +45,7 @@ describe('test operations', () => {
     const result = parseInt(calculeObj.total, 10);
     expect(result).toEqual((10 + 10));
   });
-test('Test sign change', () => {
+  test('Test sign change', () => {
     calculeObj = calculate(calculeObj, '10');
     calculeObj = calculate(calculeObj, '-');
     calculeObj = calculate(calculeObj, '10');
